@@ -3,7 +3,8 @@ title: "AWS・CCNA/CCNP・LPIC・Javaの資格試験を無料で演習できる�
 emoji: "📚"
 type: "idea"
 topics: ["aws", "ccna", "lpic", "java", "資格"]
-published: false
+published: true
+published_at: 2026-08-12 09:00
 ---
 
 ## はじめに
