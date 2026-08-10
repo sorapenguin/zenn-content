@@ -8,7 +8,7 @@ published: false
 
 ## はじめに
 
-**tech-lab**（https://tech-lab.sorapenguin.dev）は、AWS・Cisco（CCNA・CCNP）・LPIC・Java・情報処理技術者試験の問題を無料で解ける演習サイトです。対応科目は27科目まで増え、各科目とも数百問ずつ収録しています。
+**tech-lab**（https://tech-lab.sorapenguin.dev）は、AWS・Cisco（CCNA・CCNP）・LPIC・Java・応用情報技術者試験・ネットワークスペシャリスト試験の問題を無料で解ける演習サイトです。対応科目は27科目まで増え、各科目とも数百問ずつ収録しています。
 
 ![tech-labのトップページ。カテゴリ一覧と関連学習ツールが並ぶ](/images/techlab/top.png)
 
@@ -22,7 +22,7 @@ published: false
 | Cisco | CCNA・CCNP ENCOR・CCNP ENARSI | 2,100問超 |
 | LPIC | LPIC-1（101/102）・LPIC-2（201/202）・LPIC-3（300/303/305） | 2,200問超 |
 | Java | Java Silver（Oracle Certified Java Programmer, Silver SE 17） | 835問 |
-| 情報処理技術者試験 | 基本情報技術者・ネットワークスペシャリスト | 900問超 |
+| 情報処理技術者試験 | 応用情報技術者・ネットワークスペシャリスト | 900問超 |
 
 AWSは主要10資格を横断でカバーしているので、クラウド未経験からSAA・SAPのようなプロフェッショナル資格まで幅広く演習できます。
 
